@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\john\Documents\Publii\sites\cheap-websites-done-quick\preview/sitemap.xml
