@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1668967514625-605349187",
-    "name": "cwdq_source",
+    "name": "cheap-websites-done-quick",
     "displayName": "Cheap Websites Done Quick",
     "synced": "synced",
     "logo": {
@@ -213,5 +213,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1669098887140
+    "syncDate": 1669085781375
 }
