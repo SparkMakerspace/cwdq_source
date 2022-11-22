@@ -1,0 +1,44 @@
+[
+    {
+        "name": "test menu",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1669074075613,
+                "label": "Boys Ahoy",
+                "title": "",
+                "type": "external",
+                "target": "_self",
+                "rel": "",
+                "link": "https://boysahoy.solder.lol",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1669074050479,
+                "label": " ",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1669073968289,
+                "label": "Home",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]
